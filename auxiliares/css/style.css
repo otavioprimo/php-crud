@@ -1,0 +1,50 @@
+/* ********** INDEX.PHP ********** */
+#table-produtos{
+    width: 100%;
+}
+
+#btn-novo-produto{
+    width: 120px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.container{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: 500px;
+}
+/* ********** INDEX.PHP ********** */
+
+/* ********** ADICIONAR_PRODUTO.PHP ********** */
+#form-novo{
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+#btn-home{
+    font-size: 25px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: 100px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#btn-salvar{
+    width: 100%;
+}
+/* ********** ADICIONAR_PRODUTO.PHP ********** */
+
+/* ********** EDITAR_PRODUTO.PHP ********** */
+#btn-editar{
+    width: 100%;
+}
+/* ********** EDITAR_PRODUTO.PHP ********** */
